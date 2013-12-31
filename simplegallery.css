@@ -19,9 +19,6 @@
   width: 580px;
   text-align: center; }
 
-.gallery-item {
-  display: inline-block; }
-
 .gallery-thumbnail {
   height: 50px;
   margin: 5px;
@@ -65,15 +62,3 @@
   text-align: left;
   overflow: scroll;
   min-width: 600px; }
-
-body {
-  text-align: center;
-  font-family: "Helvetica Neue",Helvetica,sans-serif; }
-
-#content {
-  width: 600px;
-  display: inline-block;
-  margin-top: 100px; }
-
-.image-gallery {
-  display: inline-block; }
