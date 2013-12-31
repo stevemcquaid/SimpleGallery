@@ -32,16 +32,16 @@ Features:
 ---------
 SimpleGallery is not extraordinarily complex, fitting with its purpose, but does contain some nice features:
 
-*Auto-Resize with the window
-*Out of Range clicks exit the gallery
-*Esc key exists the gallery
-*Works decently well on mobile
+*	Auto-Resize with the window
+*	Out of Range clicks exit the gallery
+*	Esc key exists the gallery
+*	Works decently well on mobile
 
 To-Do
 ------
 There's a few things I want to fix up...
 
-*The out of bounds range isn't quite accurate, can be made more precise
-*Mobile optimized format when viewed from such devices
-*Simplify the CSS, make more SASSy
-*Clean up the JS source
+*	The out of bounds range isn't quite accurate, can be made more precise
+*	Mobile optimized format when viewed from such devices
+*	Simplify the CSS, make more SASSy
+*	Clean up the JS source
