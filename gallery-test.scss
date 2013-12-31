@@ -1,0 +1,16 @@
+@import "gallery.scss";
+
+body {
+	text-align:center;
+	font-family:"Helvetica Neue",Helvetica,sans-serif;
+}
+
+#content {
+	width:600px;
+	display:inline-block;
+	margin-top:100px;
+}
+
+.image-gallery {
+	display:inline-block;	
+}
